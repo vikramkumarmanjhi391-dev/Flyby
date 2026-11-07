@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlyBy</string>
+    <string name="app_tagline">Screen Drifters &amp; Companions</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_explore">Explore</string>
+    <string name="nav_studio">Studio</string>
+    <string name="nav_settings">Settings</string>
+    <string name="notification_channel_name">FlyBy Active Overlay</string>
+    <string name="notification_channel_desc">Shows when FlyBy screen drifters are active over other apps</string>
+    <string name="notification_title">FlyBy Screen Drifters Active</string>
+    <string name="notification_stop_action">Stop FlyBy</string>
+    <string name="notification_pause_action">Pause</string>
+    <string name="notification_resume_action">Resume</string>
+    <string name="fgs_special_use_subtype">User-initiated decorative screen companion overlay rendering lightweight non-intrusive animations over other applications with instant stop controls.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "FlyBy",
+  "description": "Interactive screen companion displaying original animated drifters, pixel art, cozy particles, and custom stickers over other apps with ghost touch pass-through.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
